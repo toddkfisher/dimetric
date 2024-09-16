@@ -9,6 +9,8 @@
 #include <gtk-3.0/gtk/gtk.h>
 #include <math.h>
 
+// TODO: "port" to xlib
+
 const double eps = 0.00001;
 
 double pos_x = 300;
