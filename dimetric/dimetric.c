@@ -9,7 +9,7 @@
 #include <gtk-3.0/gtk/gtk.h>
 #include <math.h>
 
-// TODO: "port" to xlib
+// TODO: "port" to xlib and test "smooth" movement.
 
 const double eps = 0.00001;
 
